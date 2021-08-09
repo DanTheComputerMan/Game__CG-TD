@@ -1,0 +1,1 @@
+enemies_hit = ds_list_create();
